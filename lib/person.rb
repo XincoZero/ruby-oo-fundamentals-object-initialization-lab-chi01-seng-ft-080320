@@ -1,4 +1,5 @@
 class Person 
+<<<<<<< HEAD
     def initialize(name)
         @name = name
     end 
@@ -7,3 +8,11 @@ class Person
         @name 
     end 
 end 
+=======
+  def initialize(name)
+    @name = name 
+  end 
+end 
+    
+  
+>>>>>>> 4cdda528c3cfdf125fddab318713ea8961a19e1f
